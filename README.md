@@ -1,2 +1,0 @@
-# NinjaSchool
-Clone School Ninja
